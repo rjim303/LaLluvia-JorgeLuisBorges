@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(../img/images.jpeg);
+}
+
+.container {
+    width: 50%;
+    margin: 10px auto;
+    background-color: rgba(255, 255, 255, 0.84);
+    border-radius: 6px;
+    padding: 2%;
+    text-align: center;
+    box-shadow: 5px 5px 5px;
+}
+
+.container h1 {
+    font-size: 3.4em;
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-family: 'Oswald', sans-serif;
+}
+
+.container h4 {
+    font-size: 1.4em;
+    text-align: right;
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+
+.container p {
+    font-size: 1.2em;
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+
+.container img {
+    width: 110px;
+    float: top;
+}
+
